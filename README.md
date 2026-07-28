@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Explicación del proyecto
 Sistema de Contabilidad para Negocios
 
@@ -37,3 +38,7 @@ Control de empleados.
 Recordatorios automáticos.
 Sincronización con la nube.
 Aplicación móvil.
+=======
+# SistemaContabilidad
+Sistema de contabilidad para cualquier negocio
+>>>>>>> 4a0609adf3616498e341591855eff4819cf60ea9
