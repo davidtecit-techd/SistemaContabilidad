@@ -4,10 +4,14 @@ Aplicación de escritorio para registrar ingresos y gastos de un negocio.
 
 ## Funciones
 
-- Registro de ingresos y gastos con fecha, descripción y categoría.
+- Registro de ingresos y gastos por mes, usando la fecha del equipo.
 - Resumen mensual: ingresos, gastos, balance y meta diaria.
-- Consulta y eliminación de movimientos.
-- Exportación de todos los movimientos a CSV.
+- Edición de movimientos sin borrarlos.
+- Categorías de gastos personalizables.
+- Gastos mensuales recurrentes que se registran una sola vez por período.
+- Inventario editable con cantidad, costo unitario y valor total disponible.
+- Reportes mensuales y globales descargables en CSV o PDF.
+- Copia de seguridad automática de la base de datos cada siete días.
 - Almacenamiento local mediante SQLite, sin conexión a Internet.
 
 ## Ejecución

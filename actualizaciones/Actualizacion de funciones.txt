@@ -1,0 +1,13 @@
+Listo. El proyecto ahora funciona por meses y conserva el historial sin borrar movimientos.
+Cambios principales:
+El sistema usa automáticamente el mes actual del calendario.
+Al iniciar un mes nuevo, guarda el resumen del mes anterior y reinicia el panel para el período nuevo.
+Los ingresos y gastos solo aparecen en el panel del mes activo.
+Ya no se eliminan movimientos: ahora se seleccionan y se editan.
+Añadí un panel para crear categorías de gastos; luego aparecen en una lista al registrar cada gasto.
+Añadí el panel de reportes:Cada mes cerrado queda visible.
+Puedes descargar el reporte mensual seleccionado como CSV.
+Puedes descargar un reporte global con ingresos, gastos y balance total del negocio.
+Puedes generar el reporte del mes activo manualmente, aunque el cierre es automático al cambiar de mes.
+
+Los CSV se guardan dentro de C:\Users\david\OneDrive\Desktop\SistemaContabilidad\reports.

@@ -1,0 +1,7 @@
+Apliqué los cambios con el enfoque que definiste: sin citas ni control diario.
+Nueva sección de Inventario: crea y edita productos con nombre, cantidad y costo unitario. Muestra el valor total invertido en productos.
+Nueva sección de Gastos mensuales: agrega gastos como alquiler, internet o servicios una sola vez; el sistema los registra automáticamente al iniciar cada mes.
+Reportes mensuales y globales ahora se pueden descargar en CSV o PDF.
+Copia de seguridad automática de la base de datos cada 7 días, en database/backups.
+Interfaz renovada con menú lateral más claro, tarjetas de resumen y pantallas específicas para inventario y gastos mensuales.
+Se mantiene la edición de movimientos sin borrarlos.
